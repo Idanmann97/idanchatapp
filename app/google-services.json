@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "512549705708",
+    "project_id": "idanmann-95df6",
+    "storage_bucket": "idanmann-95df6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512549705708:android:f963ac988bcb84359212c9",
+        "android_client_info": {
+          "package_name": "com.example.chatapp_idan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512549705708-s0uvtm30dvfg97jhd6q2613pu5de5nos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYSD_6u3_2Q83dgLLmdJMlN-Wtr5TZMlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512549705708-s0uvtm30dvfg97jhd6q2613pu5de5nos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

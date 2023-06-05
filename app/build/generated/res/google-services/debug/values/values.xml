@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">128523838007-1mchk53c0375g3ui8b8r8q50fl7fl1pk.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">128523838007</string>
+    <string name="google_api_key" translatable="false">AIzaSyD0KDg4uQ43RH3Zeju361d8Cycat9IiGFE</string>
+    <string name="google_app_id" translatable="false">1:128523838007:android:c0b7c99882da7c74e6d5b2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD0KDg4uQ43RH3Zeju361d8Cycat9IiGFE</string>
+    <string name="google_storage_bucket" translatable="false">chatapp-idan.appspot.com</string>
+    <string name="project_id" translatable="false">chatapp-idan</string>
+</resources>
